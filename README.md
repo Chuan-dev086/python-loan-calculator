@@ -1,7 +1,5 @@
 # 🏠 Simple Housing Loan Calculator (Python)
-
 A simple housing loan calculator built with Python and tkinter.
-
 ## Features
 
 - ✅ Equal principal and interest repayment calculation (等额本息)
